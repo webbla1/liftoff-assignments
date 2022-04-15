@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The purpose of this project is to create a reminder/tracking web application that is customizable. When brainstorming
+project ideas, we realized many had a theme involving reminders and tracking goals. Initially this will be a
+generic reminder app but eventually will have more features to customize the experience for the user. Overall, we each
+hope to be able to utilize the application in our day-to-day lives beyond LiftOff.
 ### Features
-Include Features here
+User login: Users will be able to create accounts and log in to the application.
+Create Reminders/Trackers: Users will be able to create new reminders. Users will also be able to edit reminders.
+Set Frequency of Reminders: User will be able to set and adjust the frequency of reminders.
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
 ### What I'll Have to Learn
-Include what you will need to learn here
+Method to set time/date to creation of reminder/tracker and how to ensure reminders alert at the correct
+time/date.
+Use of API's so that users can share trackers with others via social media.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/duvHcEzP/lift-off
